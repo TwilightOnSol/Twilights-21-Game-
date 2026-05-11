@@ -6,3 +6,4 @@ This repository is part of the TwilightOnSol ecosystem. It has been audited and 
 ## Project Structure
 - README.md
 - Twilight's 21.py
+- Manus AI feedback & overview
