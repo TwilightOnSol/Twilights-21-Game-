@@ -1,9 +1,9 @@
-# Twilights-21-Game-
+# Twilight's 21 Game
 
 ## Overview
-This repository is part of the TwilightOnSol ecosystem. It has been audited and refactored for better performance and maintainability.
+A classic implementation of the Blackjack (21) card game for the command line. Built with Python, it offers a clean and simple gaming experience.
 
-## Project Structure
-- README.md
-- Twilight's 21.py
-- Manus AI feedback & overview
+## Features
+- **Standard Rules**: Includes ace handling (1 or 11) and dealer logic.
+- **CLI Interface**: Simple text-based interface for hitting or passing.
+- **Automated Scoring**: Real-time calculation of hand values.
